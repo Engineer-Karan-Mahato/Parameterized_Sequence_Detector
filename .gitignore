@@ -1,0 +1,19 @@
+# Simulation files
+*.vcd
+*.fst
+
+# Verilator
+obj_dir/
+*.o
+*.d
+*.a
+
+# Icarus Verilog
+sim
+a.out
+
+# GTKWave
+*.gtkw
+
+# Logs
+*.log
